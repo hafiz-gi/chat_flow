@@ -7,6 +7,11 @@ Sign in easily using Google, Apple, Facebook, or email for a secure, hassle-free
 
 Whether it’s daily chats, work collaboration, or staying close to loved ones, ChatFlow brings messaging, calling, and sharing together in one powerful, reliable app.
 
+## 📸 Screenshots
+  <img src="images/chatflow.png"/>
+  <img src="images/chatflow mockups.png"/>
+
+
 ## 🛠️ Tech Stack
 - Flutter
 - Firebase
